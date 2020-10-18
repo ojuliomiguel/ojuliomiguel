@@ -40,9 +40,11 @@
 
 ## Educação
 
-- 📖 **Ciência da Computação**\ 
-📆 2017 - 201?\ 
-📍 **Universidade Federal de Alagoas** - Arapiraca, Alagoas, Brasil
+- 📖 **Ciência da Computação**
+    
+    📆 2017 - 201?
+
+    📍 **Universidade Federal de Alagoas** - Arapiraca, Alagoas, Brasil
 
 </details>
 
