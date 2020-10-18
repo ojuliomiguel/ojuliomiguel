@@ -4,8 +4,12 @@
 
 #### Você pode me encontrar em:
 
-[ <img align="left" alt="ojuliomiguel | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[ <img align="left" alt="ojuliomiguel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[ <img align="left" alt="ojuliomiguel | Gmail"  src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:juliomiguelsouzacosta@gmail.com" />][gmail]
+[ <img align="left" alt="ojuliomiguel | Twitter"  src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ojuliomiguel" />][twitter]
+[ <img align="left" alt="ojuliomiguel | Telegram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white"/>][instagram]
+[ <img align="left" alt="ojuliomiguel | Telegram"  src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/juliomiguelsouza" />][telegram]
+
+
 
 <br />
 
@@ -27,7 +31,20 @@
 
 
 #### Github Stats
-[![Julio Miguel' github stats](https://github-readme-stats.vercel.app/api?username=ojuliomiguel&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Julio Miguel' github stats](https://github-readme-stats.vercel.app/api?username=ojuliomiguel&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
+<details>
+    <summary>📃 Curriculum</summary>
+    ## Educação
+    - 📖 **Ciência da Computação**\
+    📆 2017 - 201?\
+    📍 **Universidade Federal de Alagoas** - Arapiraca, Alagoas, Brasil
+
+</details>
+
+
 
 <!--
 **ojuliomiguel/ojuliomiguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,3 +63,5 @@ Here are some ideas to get you started:
 
 [telegram]: https://t.me/juliomiguelsouza
 [twitter]: https://twitter.com/ojuliomiguel
+[gmail]: mailto:juliomiguelsouzacosta@gmailcom
+[instagram]: https://www.instagram.com/juliomiguel.dev
