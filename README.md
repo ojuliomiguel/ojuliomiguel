@@ -46,6 +46,27 @@
 
     📍 **Universidade Federal de Alagoas** - Arapiraca, Alagoas, Brasil
 
+## Experiência
+
+- 👨‍💻 Freelancer
+
+    📆 mar 2020 - 202?
+    
+
+
+- 👨‍💻 Desenvolvedor backend
+
+    📆 jan 2020 - 202?
+    📍 **PlusSoft** - Arapiraca, Alagoas, Brasil
+
+
+
+- 👨‍💻 Projeto Web-Scraping
+
+    📆 dezembro de 2019
+
+
+
 </details>
 
 
