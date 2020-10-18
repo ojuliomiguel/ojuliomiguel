@@ -49,13 +49,17 @@
 ## Experiência
 
 - 👨‍💻 Freelancer
+
 📆 mar 2020 - 202?
-<br />    
+   
 - 👨‍💻 Desenvolvedor backend
+
 📆 jan 2020 - 202?
+
 📍 **PlusSoft** - Arapiraca, Alagoas, Brasil
-<br /> 
+
 - 👨‍💻 Projeto Web-Scraping
+
 📆 dezembro de 2019
 
 
