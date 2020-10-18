@@ -38,8 +38,11 @@
 <details>
     <summary>📃 Curriculum</summary>
     ## Educação
-    - 📖 **Ciência da Computação**\
-    📆 2017 - 201?\
+
+    - 📖 **Ciência da Computação** \
+
+    📆 2017 - 201? \
+    
     📍 **Universidade Federal de Alagoas** - Arapiraca, Alagoas, Brasil
 
 </details>
