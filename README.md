@@ -29,6 +29,8 @@
 
 - 🔭 [Prova de conceitos ChatBot para WhatsApp](https://github.com/ojuliomiguel/tico-bot-whatsapp)
 
+- 🌱 [Implementando o padrão arquitetural pub/sub](https://github.com/ojuliomiguel/Aprendizado/tree/master/DesignPatterns/arquitetural/pubsub)
+
 
 #### Github Stats
 [![Julio Miguel' github stats](https://github-readme-stats.vercel.app/api?username=ojuliomiguel&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
