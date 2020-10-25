@@ -5,7 +5,7 @@
 #### Você pode me encontrar em:
 
 [ <img align="left" alt="ojuliomiguel | Gmail"  src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:juliomiguelsouzacosta@gmail.com" />][gmail]
-[ <img target="blank" align="left" alt="ojuliomiguel | Twitter"  src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ojuliomiguel" />][twitter]
+[ <img target="_blank" align="left" alt="ojuliomiguel | Twitter"  src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ojuliomiguel" />][twitter]
 [ <img align="left" alt="ojuliomiguel | Telegram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white"/>][instagram]
 [ <img align="left" alt="ojuliomiguel | Telegram"  src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/juliomiguelsouza" />][telegram]
 
