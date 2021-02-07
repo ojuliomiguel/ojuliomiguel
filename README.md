@@ -32,15 +32,20 @@
 
 
 #### Github Stats
-<tr>
-    <td>
-        <img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojuliomiguel&langs_count=8&layout=compact&theme=blueberry" />
-    </td>
-     <td>
-        <img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=ojuliomiguel&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" />
-    </td>
+<center>
+
+<table>
+    <tr>
+        <td>
+            <img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojuliomiguel&langs_count=8&layout=compact&theme=blueberry" />
+        </td>
+        <td>
+            <img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=ojuliomiguel&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" />
+        </td>
 </tr>
- 
+</table>
+</center>
+
 <br />
 
 <details>
