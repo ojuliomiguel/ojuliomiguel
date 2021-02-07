@@ -15,6 +15,7 @@
 
 #### Tecnologias
 
+<img align="left" alt="C#" width="26px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/typescript/typescript.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -25,15 +26,19 @@
 <br />
 
 #### Atividades recentes
-- 🌱 [Atualmente estudando padrões de projeto com TypeScript](https://github.com/ojuliomiguel/Aprendizado/tree/master/DesignPatterns)
+- 🌱 [Aprendendo C# e Asp.Net Core](https://github.com/ojuliomiguel/csharp-learning)
 
-- 🔭 [Prova de conceitos ChatBot para WhatsApp](https://github.com/ojuliomiguel/tico-bot-whatsapp)
-
-- 🌱 [Implementando o padrão arquitetural pub/sub](https://github.com/ojuliomiguel/Aprendizado/tree/master/DesignPatterns/arquitetural/pubsub)
+- 🌱 [Aplicação MVC com Asp.Net Core](https://github.com/ojuliomiguel/MvcBookManager-Asp.Net-Core)
 
 
 #### Github Stats
-[![Julio Miguel' github stats](https://github-readme-stats.vercel.app/api?username=ojuliomiguel&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+<tr>
+    <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojuliomiguel&langs_count=8&layout=compact&theme=blueberry" /></td>
+</tr>
+ 
+ [![Julio Miguel' github stats](https://github-readme-stats.vercel.app/api?username=ojuliomiguel&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <br />
 
