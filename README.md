@@ -10,7 +10,6 @@
 [ <img align="left" alt="ojuliomiguel | Telegram"  src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/juliomiguelsouza" />][telegram]
 
 
-
 <br />
 
 #### Tecnologias
@@ -50,7 +49,7 @@
 <br />
 
 <details>
-    <summary> <h3>📃 Curriculum</h3> </summary>
+    <h2> <summary> 📃 Curriculum </summary> </h2>
 
 ## Educação
 
@@ -62,24 +61,30 @@
 
 ## Experiência
 
-- 👨‍💻 Freelancer
+- :computer: Desenvolvedor Asp.Net (backend)
 
-    📆 mar 2020 - 202?
+    📆 jan 2021 - mar 2021
+
+    📍 **Intelitrader** - Remoto, SP, Brasil
+
+- :computer: Desenvolvedor backend Nodejs/TypeScript
+
+    📆 ago 2020 - jan 2021
+
+    📍 **MyInterCambio** - Remoto, PE, Brasil
    
-- 👨‍💻 Desenvolvedor backend
+- :computer: Desenvolvedor backend
 
     📆 jan 2020 - 202?
 
     📍 **PlusSoft** - Arapiraca, Alagoas, Brasil
 
-- 👨‍💻 Projeto Web-Scraping
+- :computer: Projeto Web-Scraping
 
     📆 dezembro de 2019
 
 
-
 </details>
-
 
 
 <!--
