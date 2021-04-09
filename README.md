@@ -1,6 +1,6 @@
-<h2 align="center">Olá, eu sou o Júlio Miguel!</h2>
+<h2 align="center">Olá 👋, eu sou o Júlio Miguel!</h2>
 
-<p align="center">Apreciador de um bom café ☕, leitor em horas livres. <br/> <b> Minha paixão é cada vez mais desenvolver códigos de qualidade! </b> </p>
+<p align="center">Apreciador de um bom café ☕ e leitor em horas livres. <br/> <b> Minha paixão é cada vez mais desenvolver códigos de qualidade! </b> </p>
 
 #### Você pode me encontrar em:
 
@@ -31,25 +31,26 @@
 - 🌱 [Aplicação MVC com Asp.Net Core](https://github.com/ojuliomiguel/MvcBookManager-Asp.Net-Core)
 
 
-#### Github Stats
-<center>
+<h3 align="center">Github stats :bar_chart:</h3>
 
-<table>
-    <tr>
-        <td>
-            <img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojuliomiguel&langs_count=8&layout=compact&theme=blueberry" />
-        </td>
-        <td>
-            <img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=ojuliomiguel&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" />
-        </td>
-</tr>
-</table>
-</center>
+
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojuliomiguel&langs_count=8&layout=compact&theme=blueberry" alt="Julio :: Top Langs" />
+</p>
+       
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+            
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ojuliomiguel&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" alt="Julio :: Top Langs" />
+</p       
+        
 
 <br />
 
 <details>
-    <summary>📃 Curriculum</summary>
+    <summary> <h3>📃 Curriculum</h3> </summary>
 
 ## Educação
 
