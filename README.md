@@ -2,12 +2,15 @@
 
 <p align="center">Apreciador de um bom café ☕ e leitor em horas livres. <br/> <b> Minha paixão é cada vez mais desenvolver códigos de qualidade! </b> </p>
 
+<img align="center" alt="GIF" src="https://github.com/ojuliomiguel/ojuliomiguel/blob/main/assets/code.gif?raw=true" width="500" height="320" />
+
 #### Você pode me encontrar em:
 
 [ <img align="left" alt="ojuliomiguel | Gmail"  src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:juliomiguelsouzacosta@gmail.com" />][gmail]
 [ <img target="_blank" align="left" alt="ojuliomiguel | Twitter"  src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ojuliomiguel" />][twitter]
 [ <img align="left" alt="ojuliomiguel | Telegram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white"/>][instagram]
 [ <img align="left" alt="ojuliomiguel | Telegram"  src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/juliomiguelsouza" />][telegram]
+
 
 
 <br />
@@ -49,7 +52,7 @@
 <br />
 
 <details>
-    <h2> <summary> 📃 Curriculum </summary> </h2>
+    <h2> <summary> 📃 Curriculum </summary> </h3>
 
 ## Educação
 
