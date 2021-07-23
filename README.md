@@ -32,9 +32,10 @@
 <br />
 
 #### Atividades recentes
-- 🌱 [Aprendendo C# e Asp.Net Core](https://github.com/ojuliomiguel/csharp-learning)
 
-- 🌱 [Aplicação MVC com Asp.Net Core](https://github.com/ojuliomiguel/MvcBookManager-Asp.Net-Core)
+- :computer: Aprendendo TDD
+
+- :open_book: Lendo Clean Code
 
 
 <h3 align="center">Github stats :bar_chart:</h3>
