@@ -18,7 +18,6 @@
      <br/>
      <br/>
     <h3>Tecnologias</h3>
-    <br/>
     <img alt="Typescript" width="35px" src="assets/icons/ts.png" />
     <img alt="JavaScript" width="35px" src="assets/icons/js.png" />
     <img alt="Node.js" width="35px" src="assets/icons/nodejs.png" />
@@ -32,10 +31,7 @@
     <!-- <h3>Atividades Recentes</h3> -->
 </div>
 
-<br />
-
 <h3 align="center">Github stats :bar_chart:</h3>
-
 
 <h4 align="center">Top langs :tongue:</h4>
 
@@ -52,7 +48,7 @@
 
 <br />
 
-<details align="center">
+<details>
     <h2> <summary> 📃 Curriculum </summary> </h3>
 
 ## Educação
