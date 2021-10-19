@@ -3,7 +3,7 @@
 <p align="center">Apreciador de um bom café ☕ e leitor em horas livres. <br/> <b> Minha paixão é cada vez mais desenvolver códigos de qualidade! </b> </p>
 
 <p align="center">
-    <img align="center" alt="GIF" src="https://github.com/ojuliomiguel/ojuliomiguel/blob/main/assets/code.gif?raw=true" width="450" height="270" />
+    <img align="center" alt="GIF" src="https://github.com/ojuliomiguel/ojuliomiguel/blob/main/assets/code_.gif?raw=true" width="450" height="270" />
 </p>
 
 
