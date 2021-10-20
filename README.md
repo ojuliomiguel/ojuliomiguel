@@ -11,10 +11,18 @@
 <h3 align="center">Você pode me encontrar em</h3>
 
 <div align="center">
-    <img target="_blank" alt="ojuliomiguel | Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/j%C3%BAlio-miguel-82b8ab1a0/" />
-    <img  alt="ojuliomiguel | Telegram"  src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/juliomiguelsouza" />
-    <img alt="ojuliomiguel | Gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:juliomiguelsouzacosta@gmail.com" />
-     <img  alt="ojuliomiguel | Instagram"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/solidcode42"/>
+    <a href="https://www.linkedin.com/in/j%C3%BAlio-miguel-82b8ab1a0"> 
+         <img target="_blank" alt="ojuliomiguel | Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/j%C3%BAlio-miguel-82b8ab1a0/" />
+    </a>
+    <a href="https://t.me/juliomiguelsouza"> 
+        <img  alt="ojuliomiguel | Telegram"  src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/juliomiguelsouza" />
+    </a>
+    <a href="https://instagram.com/solidcode42"> 
+        <img  alt="ojuliomiguel | Instagram"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/solidcode42"/>
+    </a>
+    <a> 
+        <img alt="ojuliomiguel | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:juliomiguelsouzacosta@gmail.com" />
+    </a>
      <br/>
      <br/>
     <h3>Tecnologias</h3>
@@ -31,22 +39,13 @@
     <!-- <h3>Atividades Recentes</h3> -->
 </div>
 
-<h3 align="center">Github stats :bar_chart:</h3>
-
-<h4 align="center">Top langs :tongue:</h4>
-
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojuliomiguel&langs_count=8&layout=compact&theme=blueberry" alt="Julio :: Top Langs" />
+    <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojuliomiguel&langs_count=8&layout=compact&theme=blueberry" alt="Julio :: Top Langs" />
+    <img align="center"  src="https://github-readme-stats.vercel.app/api?username=ojuliomiguel&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" alt="Julio :: Top Langs" />
 </p>
-       
-<h4 align="center">Profile stats :musical_keyboard:</h4>
             
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ojuliomiguel&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" alt="Julio :: Top Langs" />
-</p       
-        
-
 <br />
+
 
 <details>
     <h2> <summary> 📃 Curriculum </summary> </h3>
