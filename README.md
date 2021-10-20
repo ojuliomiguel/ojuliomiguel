@@ -46,7 +46,7 @@
             
 <br />
 
-
+### Saiba mais ⬇️
 <details>
     <h2> <summary> 📃 Curriculum </summary> </h3>
 
