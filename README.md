@@ -2,12 +2,6 @@
 
 <p align="center">Apreciador de um bom café ☕ e leitor em horas livres. <br/> <b> Minha paixão é cada vez mais desenvolver códigos de qualidade! </b> </p>
 
-<p align="center">
-    <img align="center" alt="GIF" src="https://github.com/ojuliomiguel/ojuliomiguel/blob/main/assets/code_.gif?raw=true" width="500" height="290" />
-</p>
-
-<br />
-
 <h3 align="center">Você pode me encontrar em</h3>
 
 <div align="center">
@@ -23,7 +17,6 @@
     <a> 
         <img alt="ojuliomiguel | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:juliomiguelsouzacosta@gmail.com" />
     </a>
-     <br/>
      <br/>
     <h3>Tecnologias</h3>
     <img alt="Typescript" width="35px" src="assets/icons/ts.png" />
@@ -46,52 +39,58 @@
             
 <br />
 
-### Saiba mais ⬇️
-<details>
-    <h2> <summary> 📃 Curriculum </summary> </h3>
-
 ## Educação
-
 - 📖 **Ciência da Computação**
     
     📆 2017 - 2021
 
     📍 **Universidade Federal de Alagoas** - Arapiraca, Alagoas, Brasil
 
-## Experiência
+## Experiência Profissional
 
-- :computer: Engenheiro de software backend
+- :computer: Engenheiro de Software Backend:
 
-    📆 ago 2021 
+    📆 fev 2022 - atual
 
+    📍 **Grupo FCamara** - Remoto, SP, Brasil
+---
+
+- :computer: Engenheiro de Software Backend
+
+    📆 jul 2021 - fev 2021 
     📍 **Aws Code** - Remoto, MG, Brasil
+    
+    - Desenvolvimento e manutenção de microserviços
+    - Testes unitários de software
+    - Análise de Requisitos
+    - Suporte a squads no desenvolvimento de software 
+---
+
+- :computer: Desenvolvedor backend
+
+    📆 jan 2020 - jul 2021
+    📍 **PlusSoft** - Arapiraca, Alagoas, Brasil
+    - Desenvolvimento de Apis Rest
+    - Integração em sistema legado Delphi
+    - Criação e manutenção de chatbots para whatsapp e telegram
+---
 
 - :computer: Desenvolvedor Asp.Net (backend)
 
-    📆 jan 2021 - mar 2021
-
+    📆 jan 2021 - mar 2022
     📍 **Intelitrader** - Remoto, SP, Brasil
-
+    
+    - Desenvolvimento de software de análise de risco financeira
+    - Ativades de QA
+ ---
+ 
 - :computer: Desenvolvedor backend Nodejs/TypeScript
 
     📆 ago 2020 - jan 2021
-
     📍 **MyInterCambio** - Remoto, PE, Brasil
-   
-- :computer: Desenvolvedor backend
-
-    📆 jan 2020 - 202?
-
-    📍 **PlusSoft** - Arapiraca, Alagoas, Brasil
-
-- :computer: Projeto Web-Scraping
-
-    📆 dezembro de 2019
-
-
-</details>
-
-
+    
+    - Criação e manutenção de chatbots para whatsapp
+ 
 <!--
 **ojuliomiguel/ojuliomiguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
