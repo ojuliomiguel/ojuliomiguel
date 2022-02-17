@@ -1,7 +1,4 @@
-<img src="https://i.ibb.co/WBKp11m/cover.png" />
-
-
-<h2 align="center">Olá 👋, eu sou o Júlio Miguel!</h2>
+<img src="https://i.ibb.co/9vx1G3L/cover.png" />
 
 <p align="center">Apreciador de um bom café ☕ e leitor em horas livres. <br/> <b> Minha paixão é cada vez mais desenvolver códigos de qualidade! </b> </p>
 
