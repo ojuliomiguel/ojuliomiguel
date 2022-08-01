@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/D1WMW7R/cover.png" />
+<img src="https://i.ibb.co/vJRFCv8/cover.png" />
 
 <p align="center">Apreciador de um bom café ☕ e leitor em horas livres. <br/> <b> Minha paixão é cada vez mais desenvolver códigos de qualidade! </b> </p>
 
