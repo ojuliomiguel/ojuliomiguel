@@ -1,6 +1,6 @@
 <!-- <img src="https://i.ibb.co/vJRFCv8/cover.png" /> -->
 
-<p align="center">Olá, bem-vindo (a) :blush:. Sou um apreciador de um bom café ☕ e leitor em horas livres. <br/> <b> Minha paixão é cada vez mais desenvolver códigos de qualidade! </b> </p>
+<p align="center">Apreciador de um bom café ☕ e leitor em horas livres. <br/> <b> Minha paixão é cada vez mais desenvolver códigos de qualidade! </b> </p>
 
 <div align="center">
     <h3>Algumas tecnologias que atuo</h3>
