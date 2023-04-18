@@ -2,8 +2,6 @@
 
 <p align="center">Olá, bem-vindo (a) :blush:. Sou um apreciador de um bom café ☕ e leitor em horas livres. <br/> <b> Minha paixão é cada vez mais desenvolver códigos de qualidade! </b> </p>
 
-<br/>
-
 <div align="center">
     <h3>Algumas tecnologias que atuo</h3>
     <img alt="Typescript" width="35px" src="assets/icons/ts.png" />
@@ -14,7 +12,6 @@
     <img alt="sql" width="35px" src="assets/icons/sql.png" />
     <img alt="git" width="35px" src="assets/icons/git.png" />
     <img alt="docker" width="40px" src="assets/icons/docker.png" />
-    <br/>
     <br/>
     <h3 align="center">Me encontre em</h3>
     <a href="https://www.linkedin.com/in/j%C3%BAlio-miguel-82b8ab1a0"> 
