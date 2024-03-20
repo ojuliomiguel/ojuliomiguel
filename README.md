@@ -29,7 +29,7 @@
 <br/>
 
 <p align="center">
-    <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojuliomiguel&langs_count=8&layout=compact&theme=blueberry" alt="Julio :: Top Langs" />
+    <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojuliomiguel&langs_count=8&layout=compact&theme=blueberry&hide=html,css,vue,mermaid,Rich%20Text%20Format,dockerfile" alt="Julio :: Top Langs" />
     <img align="center"  src="https://github-readme-stats.vercel.app/api?username=ojuliomiguel&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" alt="Julio :: Top Langs" />
 </p>
             
